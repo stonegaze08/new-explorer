@@ -1,0 +1,38 @@
+{
+    "chain_name": "osmosis",
+    "coingecko": "osmosis",
+    "api": [
+        {"provider": "kjnodes.com 🦄", "address": "https://osmosis.api.kjnodes.com"},
+        {"provider": "polkachu.com", "address": "https://osmosis-api.polkachu.com"}
+    ],
+    "rpc": [
+        {"provider": "kjnodes.com 🦄", "address": "https://osmosis.rpc.kjnodes.com"},
+        {"provider": "polkachu.com", "address": "https://osmosis-api.polkachu.com"}
+    ],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.1",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "osmo",
+    "logo": "https://github.com/nodexemperor/explorer.nodex.one/blob/master/logos/osmosis.jpg?raw=true",
+    "theme_color": "#812cd6",
+    "assets": [{
+        "base": "uosmo",
+        "symbol": "OSMO",
+        "exponent": "6",
+        "coingecko_id": "osmosis", 
+        "logo": "https://github.com/nodexemperor/explorer.nodex.one/blob/master/logos/osmosis.jpg?raw=true"
+    },{
+        "base": "uion",
+        "symbol": "ION",
+        "exponent": "6",
+        "coingecko_id": "ion", 
+        "logo": "https://github.com/nodexemperor/explorer.nodex.one/blob/master/logos/osmosis.jpg?raw=true"
+    },{
+        "base": "usomm",
+        "symbol": "SOMM",
+        "exponent": "6",
+        "coingecko_id": "somm", 
+        "logo": ""
+    }]
+}

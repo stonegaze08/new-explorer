@@ -1,0 +1,22 @@
+{
+    "chain_name": "story",
+    "registry_name": "story",
+    "api": [
+        {"provider": "zulna", "address": "https://story-api-testnet.zulnaaa.com"}
+    ],
+    "rpc": [
+        {"provider": "zulna", "address": "https://story-rpc-testnet.zulnaaa.com"}
+    ],
+    "sdk_version": "0.50.7",
+    "coin_type": "118",
+    "min_tx_fee": "500",
+    "addr_prefix": "story",
+    "logo": "https://avatars.githubusercontent.com/u/113589726?s=200&v=4",
+    "assets": [{
+        "base": "IP",
+        "symbol": "IP",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "https://avatars.githubusercontent.com/u/113589726?s=200&v=4"
+    }]
+}

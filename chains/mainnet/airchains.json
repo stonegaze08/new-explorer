@@ -1,0 +1,25 @@
+{
+    "chain_name": "airchains",
+    "api": [
+      {"provider": "zulna", "address": "https://airchains-testnet-api.itrocket.net"}
+  ],
+  "rpc": [
+      {"provider": "zulna", "address": "https://airchains-testnet-rpc.itrocket.net"}
+  ],
+  "snapshot_provider": "",
+    "sdk_version": "0.47.4",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "afm",
+    "logo": "https://docs.syanodes.my.id/~gitbook/image?url=https%3A%2F%2F3732959305-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fr1ChzocIBBGBlfbyRi9s%252Fuploads%252FllQKnFD3Gd8vjiOvcB2s%252Fairchain.png%3Falt%3Dmedia%26token%3D4233139c-2669-449a-8558-489f586b17e5&width=768&dpr=1&quality=100&sign=1786ff5190dcf18b6f08364ddf7deeb2ccedd4312306c02d268d6dad9b5a06bf",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "theme_color": "#ffaeee",
+    "assets": [
+      {
+        "base": "AFM",
+        "symbol": "AFM",
+        "exponent": "6",
+        "logo": "https://docs.syanodes.my.id/~gitbook/image?url=https%3A%2F%2F3732959305-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fr1ChzocIBBGBlfbyRi9s%252Fuploads%252FllQKnFD3Gd8vjiOvcB2s%252Fairchain.png%3Falt%3Dmedia%26token%3D4233139c-2669-449a-8558-489f586b17e5&width=768&dpr=1&quality=100&sign=1786ff5190dcf18b6f08364ddf7deeb2ccedd4312306c02d268d6dad9b5a06bf"
+      }
+    ]
+  }

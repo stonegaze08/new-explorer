@@ -1,0 +1,27 @@
+{
+    "chain_name": "SideProtocol",
+    "api": [
+        {
+            "address": "https://side-testnet-api.itrocket.net", 
+            "provider": "ITrocket"
+        }
+    ], 
+    "rpc": [
+        {
+            "address": "https://side-testnet-rpc.itrocket.net", 
+            "provider": "ITrocket"
+        }
+    ],
+    "sdk_version": "0.42.6",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "assets": [{
+        "base": "SIDE",
+        "symbol": "SIDE",
+        "exponent": "6",
+        "logo": "https://pbs.twimg.com/profile_images/1666366346492542977/ywO_kmkx_400x400.jpg"
+    }],
+    "addr_prefix": "SIDE",
+    "theme_color": "#ce4747",
+    "logo": "https://pbs.twimg.com/profile_images/1666366346492542977/ywO_kmkx_400x400.jpg"
+}

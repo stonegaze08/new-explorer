@@ -1,0 +1,23 @@
+{
+    "chain_name": "initia",
+    "api": [
+        {"provider": "ITrocket", "address": "https://initia-testnet-api.itrocket.net"}
+    ],
+    "rpc": [
+        {"provider": "ITrocket", "address": "https://initia-testnet-rpc.itrocket.net"}
+    ],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.13",
+    "coin_type": 118,
+    "min_tx_fee": "5000",
+    "addr_prefix": "INIT",
+    "logo": "https://pbs.twimg.com/profile_images/1604751287618113536/ayyW6i94_400x400.jpg",
+    "keplr_features": ["ibc-transfer", "ibc-go"],
+    "theme_color": "#3ac294",
+    "assets": [{
+        "base": "INIT",
+        "symbol": "INIT",
+        "exponent": 6,
+        "logo": "https://pbs.twimg.com/profile_images/1604751287618113536/ayyW6i94_400x400.jpg"
+    }]
+}

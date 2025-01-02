@@ -1,0 +1,30 @@
+{
+    "chain_name": "zulna",
+    "coingecko": "",
+    "api": [
+      {"provider": "zulna", "address": "https://rest.rollapp.nodex.one"}
+  ],
+    "rpc": [
+      {"provider": "zulna", "address": "https://rpc.rollapp.nodex.one"}
+  ],
+    "provider_chain": {
+    "api": ["https://rest.rollapp.nodex.one"]
+  },
+    "features": ["dashboard", "blocks", "ibc", "cosmwasm", "parameters", "supply"],
+    "sdk_version": "0.46.13",
+    "coin_type": 60,
+    "min_tx_fee": "5000000000000000",
+    "addr_prefix": "ethm",
+    "logo": "/favicon.ico",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "theme_color": "#0A0B0B",
+    "assets": [
+      {
+        "base": "uZLN",
+        "symbol": "ZLN",
+        "exponent": 18,
+        "coingecko_id": "",
+        "logo": "/favicon.ico"
+      }
+    ]
+}
