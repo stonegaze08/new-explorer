@@ -1,17 +1,17 @@
 {
     "chain_name": "pryzm",
     "api": [
-        {"provider": "polkachu.com", "address": "https://pryzm-testnet-api.polkachu.com"}
+        {"provider": "polkachu.com", "address": "https://prysm-testnet-api.itrocket.net"}
     ],
     "rpc": [
-        {"provider": "polkachu.com", "address": "https://pryzm-testnet-rpc.polkachu.com"}
+        {"provider": "polkachu.com", "address": "https://prysm-testnet-rpc.itrocket.net"}
     ],
     "snapshot_provider": "",
     "sdk_version": "0.47.6",
     "coin_type": "118",
     "min_tx_fee": "5000",
     "addr_prefix": "pryzm",
-    "logo": "https://github.com/nodexemperor/explorer.nodex.one/blob/master/logos/pryzm.png?raw=true",
+    "logo": "https://pbs.twimg.com/profile_images/1860070465898795008/c4gj8huk_400x400.png",
     "keplr_features": ["ibc-transfer", "ibc-go"],
     "theme_color": "#202020",
     "assets": [{
@@ -19,6 +19,6 @@
         "symbol": "PRYZM",
         "exponent": "6",
         "coingecko_id": "",
-        "logo": "https://github.com/nodexemperor/explorer.nodex.one/blob/master/logos/pryzm.png?raw=true"
+        "logo": "https://pbs.twimg.com/profile_images/1860070465898795008/c4gj8huk_400x400.png"
     }]
 }
