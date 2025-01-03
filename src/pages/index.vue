@@ -46,7 +46,7 @@ const chainStore = useBlockchain()
             -1 4 -43 78 -93 165 l-90 157 -187 0 c-104 0 -188 -2 -188 -5z"/>
           </g>
         </svg> -->
-        <img class="w-10 h-10" src="../../../assets/logostonegaze.png" />
+        <img class="w-10 h-10" src="../assets/logostonegaze.png" />
       </div>
       <h1 class="text-primary dark:invert text-3xl md:!text-6xl font-bold">
         {{ $t('pages.title') }}
