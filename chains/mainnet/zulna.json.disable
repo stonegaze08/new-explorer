@@ -1,11 +1,11 @@
 {
-    "chain_name": "zulna",
+    "chain_name": "StoneGaze",
     "coingecko": "",
     "api": [
-      {"provider": "zulna", "address": "https://rest.rollapp.nodex.one"}
+      {"provider": "StoneGaze", "address": "https://rest.rollapp.nodex.one"}
   ],
     "rpc": [
-      {"provider": "zulna", "address": "https://rpc.rollapp.nodex.one"}
+      {"provider": "StoneGaze", "address": "https://rpc.rollapp.nodex.one"}
   ],
     "provider_chain": {
     "api": ["https://rest.rollapp.nodex.one"]

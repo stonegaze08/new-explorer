@@ -2,10 +2,10 @@
     "chain_name": "story",
     "registry_name": "story",
     "api": [
-        {"provider": "zulna", "address": "https://story-api-testnet.zulnaaa.com"}
+        {"provider": "itrocket", "address": "https://story-api.stonegaze.xyz"}
     ],
     "rpc": [
-        {"provider": "zulna", "address": "https://story-rpc-testnet.zulnaaa.com"}
+        {"provider": "stonegaze", "address": "https://story-rpc.stonegaze.xyz"}
     ],
     "sdk_version": "0.50.7",
     "coin_type": "118",

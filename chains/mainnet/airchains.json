@@ -1,10 +1,10 @@
 {
     "chain_name": "airchains",
     "api": [
-      {"provider": "zulna", "address": "https://airchains-testnet-api.itrocket.net"}
+      {"provider": "itrocket", "address": "https://airchains-testnet-api.itrocket.net"}
   ],
   "rpc": [
-      {"provider": "zulna", "address": "https://airchains-testnet-rpc.itrocket.net"}
+      {"provider": "itrocket", "address": "https://airchains-testnet-rpc.itrocket.net"}
   ],
   "snapshot_provider": "",
     "sdk_version": "0.47.4",

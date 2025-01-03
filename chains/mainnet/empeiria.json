@@ -2,10 +2,10 @@
     "chain_name": "empeiria",
     "registry_name": "empeiria",
     "api": [
-        {"provider": "", "address": "https://empeiria-api-testnet.aa.com"}
+        {"provider": "itrocket", "address": "https://empeiria-testnet-api.itrocket.net"}
     ], 
     "rpc": [
-        {"provider": "", "address": "https://empeiria-rpc-testnet.zulnaaa.com"}
+        {"provider": "itrocket", "address": "https://empeiria-testnet-rpc.itrocket.net"}
     ],
     "sdk_version": "0.47.4",
     "coin_type": "118",

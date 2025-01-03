@@ -11,10 +11,10 @@
       By&nbsp;
       <a
         class="link link-primary no-underline"
-        href="https://service.zulnaaa.com"
+        href="https://github.com/stonegaze08"
         target="_blank"
         rel="noopener noreferrer"
-        >ZULNA</a
+        >StoneGaze</a
       >
     </div>
     <div
@@ -28,7 +28,7 @@
       >
       <a
         class="link link-primary no-underline"
-        href="https://github.com/zulna10"
+        href="https://github.com/stonegaze08"
         target="noopener noreferrer"
         >Github</a
       >
